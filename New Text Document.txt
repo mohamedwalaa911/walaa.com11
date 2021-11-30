@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8"/>
+     <meta name="description" content="this is our web site ">
+     <title>my project 101</title>
+     <style>
+body {
+     background-color:rgb(123, 170, 15);
+}
+     </style><link rel="stylesheet" href="">
+</head>
+<body>
+<header>
+<h2>logo</h2>
+<ul>
+<li>home</li>
+<li>about</li>
+<li>servecis</li>
+<li>content us </li>
+<audio controls autoplay loop>
+<source src="html.com/Sm3na_com_63664.mp3" type="audio/mpeg">
+
+</audio>
+<hr>
+</header>
+</ul>
+<nav>
+     <ul>link</ul>
+     <div>
+<video controls width="600" height="300" poster="html.com/boss.jpg" muted>
+<source src="html.com/poss.mp4" type="video/mp4">
+your browser does not support video tag
+</video>
+
+
+     </div>
+     
+</nav>
+<hr>
+<section class="102">
+    <figure>
+     <img src="html.com/strategy_development_process_with_manage_performance_slide01.png" alt="">
+     <figcaption>caption of image</figcaption>
+     </figure>
+     content
+</section>
+<article>
+this web site is brought you  by mohamed ahmed abdelfattah 
+</article>
+<aside>
+sidebar
+</aside>
+<footer>
+
+
+
+</footer>     
+</body> 
+
+</html>
